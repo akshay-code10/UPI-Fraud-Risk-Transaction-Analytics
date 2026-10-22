@@ -1,4 +1,4 @@
-# 📊 UPI-Transaction-Analysis
+# 💳 UPI-Transaction-Analysis
 
 An end-to-end data analytics project on UPI payment data using Excel, SQL (MySQL), Python and Power BI to analyze fraud risk, failed transactions, and customer, merchant and device behavior.
 
